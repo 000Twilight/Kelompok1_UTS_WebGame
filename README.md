@@ -1,5 +1,5 @@
-# [WemenGotchi] (https://github.com/000Twilight/Kelompok1_UTS_WebGame)
-## Kelas B/Kelompok 3
+# [WemenGotchi] (https://fluk00.github.io/kel-1_PTS_Website-game/menu_awal.html)
+## Kelas A/Kelompok 1
 
 ### Dev Team:
 - Mario Richie Lim / (https://github.com/000Twilight) (00000067355)
@@ -36,4 +36,4 @@
 - If the Avatar change or the website goes too slow, sorry for the inconvenience
 
 ### Video Demonstasi
-[![Video Demo](....)
+[![Video Demo](https://youtu.be/5ChHgyx2KnM)
