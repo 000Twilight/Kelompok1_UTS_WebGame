@@ -36,4 +36,4 @@
 - If the Avatar change or the website goes too slow, sorry for the inconvenience
 
 ### Video Demonstasi
-https://youtu.be/5ChHgyx2KnM)
+https://youtu.be/5ChHgyx2KnM
