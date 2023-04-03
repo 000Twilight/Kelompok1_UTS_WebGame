@@ -1,4 +1,4 @@
-# [WemenGotchi] (https://github.com/Eredith/Kelompok1_PTS_WebsiteGame.git)
+# [WemenGotchi] (https://github.com/000Twilight/Kelompok1_UTS_WebGame)
 ## Kelas B/Kelompok 3
 
 ### Dev Team:
