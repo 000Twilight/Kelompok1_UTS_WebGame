@@ -1,4 +1,4 @@
-# [WemenGotchi] (https://fluk00.github.io/kel-1_PTS_Website-game/menu_awal.html)
+# [WemenGotchi] (https://fluk00.github.io/kel-1_PTS_Website-game/negetshp.html)
 ## Kelas A/Kelompok 1
 
 ### Dev Team:
